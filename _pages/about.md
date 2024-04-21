@@ -10,14 +10,19 @@ redirect_from:
 
 ---
 
-I was a Ph.D student at the School of Computer Science and Engineering in Nanyang Technological University under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/).
+I am a Research Fellow in [CYSREN@NTU](https://www.ntu.edu.sg/cysren) since July 2023.
+Before that, I was a Ph.D student at SCSE@NTU (School of Computer Science and Engineering, Nanyang Technological University) under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/).
 
-My Ph.D works mainly center around building tools for detecting software vulnerabilities, including the **Fuzz Driver Generation**, **Firmware Rehosting**, and **Binary Instrumentation**.
-They worked by enabling the fuzz testing on the targets that cannot be effectively applied before.
-In the near future, I plan to explore more possibilities on **vulnerability detection**, such as modeling new kinds of vulnerbilities, exploring LLM-assisted approaches, etc.
-In the long run, I'm eager to build more cool things!
+My research expertise mainly center around building tools factilitating vulnerability detection:
 
-Currently, I am a Research Fellow in [CYSREN@NTU](https://www.ntu.edu.sg/cysren) since July 2023, and also working as Project Co-Investigator for some projects.
+- **Fuzz Driver Generation**: Rubick (USENIX Sec 23), APICraft (USENIX Sec 21)
+- **Firmware Analysis**: BVFinder (ICSE 24), EQUAFL (ISSTA 22), FirmGuide (ASE 21), ECMO (CCS 21)
+- **Model-Based Vulnerability Detection**: Rengar (Oakland 23), Endwatch (ASE 23)
+- **General Fuzzing Improvements**: Medusa (WWW 24), BiFF (ASE 21), MUZZ (USENIX Sec 20), Cerebro (FSE 19)
+
+My works have received several awards from both academia and industry, such as the ACM SIGSOFT Distinguished Paper Awards of ASE 2023 and ICSE 2024, 2021 Most Influential Research Paper of Ant Finance, and 1st Award of Prototype Competition, Free Style Track, NASAC (ChinaSoft) 2019.
+I'm also working as Project Co-Investigator for some research projects and mentoring several Ph.D students.
+In the future, I plan to explore more possibilities on **vulnerability detection**, such as modeling new kinds of vulnerbilities, exploring LLM-assisted approaches, etc.
 
 # News
 
