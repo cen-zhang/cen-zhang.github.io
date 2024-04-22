@@ -23,7 +23,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 </p>
 
 <p>
-<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Yiming Liu, <font color="blue">Cen Zhang</font>, Feng Li, Yeting Li, Jianhua Zhou, Jian Wang, Lanlan Zhan, Yang Liu, Wei Huo. Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware, ICSE 2024. <font color="blue">Acceptance Rate: 8% (65/808), 10K+ USD Bug Bounty</font> <font color="red">ACM SIGSOFT Distinguished Paper Award</font>
+<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Yiming Liu, <font color="blue">Cen Zhang</font>, Feng Li, Yeting Li, Jianhua Zhou, Jian Wang, Lanlan Zhan, Yang Liu, Wei Huo. Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware, ICSE 2024. <font color="blue">Acceptance Rate: 8% (65/808), 10K+ USD Bug Bounty</font> <img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;"><font color="red">ACM SIGSOFT Distinguished Paper Award</font>
 </p>
 
 <p>
@@ -32,7 +32,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <p>
 <a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Yao Zhang, Xiaofei Xie, Yi Li, Sen Chen, <font color="blue">Cen Zhang</font>, Xiaohong Li. EndWatch: A Practical Method for Detecting Non-Termination in Real-World Software, ASE 2023.
-<font color="red">ACM SIGSOFT Distinguished Paper Award</font>
+<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;"><font color="red">ACM SIGSOFT Distinguished Paper Award</font>
 </p>
 
 <p>
@@ -53,7 +53,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <p>
 <a class="media" href="https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-cen" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Cen Zhang</font>, Xingwei Lin, Yuekang Li, Yinxing Xue, Jundong Xie, Hongxu Chen, Xinlei Ying, Jiashui Wang, and Yang Liu. APICraft: Fuzz Driver Generation for Closed-source SDK Libraries, USENIX Security 2021.
-<font color="red">Most Influential Research Paper of Year 2021 in Ant Finance</font>
+<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;">font color="red">Most Influential Research Paper of Year 2021 in Ant Finance</font>
 </p>
 
 <p>
@@ -70,7 +70,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <p>
 <a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Yuekang Li, Hongxu Chen, <font color="blue">Cen Zhang</font>, Siyang Xiong, Chaoyi Liu, and Yi Wang. Ori: A Greybox Fuzzer for SOME/IP Protocols in Automotive Ethernet, APSEC 2020.
-<font color="red">Best Paper Award in Early Research Achievement Track</font>
+<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;"><font color="red">Best Paper Award in Early Research Achievement Track</font>
 </p>
 
 <p>
@@ -79,7 +79,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <p>
 <a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Cen Zhang</font>, Yuekang Li, Hongxu Chen, Anh Quynh Nguyen, Yang Liu. BiFF: An Effective Binary Fuzzing Framework with Cross-Architecture Support, NASAC 2019.
-<font color="red">First Award in Software Prototype Competition Free Track</font>
+<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;"><font color="red">First Award in Software Prototype Competition Free Track</font>
 </p>
 
 <p>
