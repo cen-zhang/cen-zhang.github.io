@@ -15,10 +15,10 @@ Before that, I was a Ph.D student at SCSE@NTU (School of Computer Science and En
 
 My research expertise mainly center around building tools factilitating vulnerability detection:
 
-- **Fuzz Driver Generation**: Rubick (USENIX Sec 23), APICraft (USENIX Sec 21)
-- **Firmware Analysis**: BVFinder (ICSE 24), EQUAFL (ISSTA 22), FirmGuide (ASE 21), ECMO (CCS 21)
-- **Model-Based Vulnerability Detection**: Rengar (Oakland 23), Endwatch (ASE 23)
-- **General Fuzzing Improvements**: Medusa (WWW 24), BiFF (ASE 21), MUZZ (USENIX Sec 20), Cerebro (FSE 19)
+- **Fuzz Driver Generation**: Rubick (USENIX Sec 23), APICraft (USENIX Sec 21<img src="https://cenzhang.github.io/images/award.gif">)
+- **Firmware Analysis**: BVFinder (ICSE 24<img src="https://cenzhang.github.io/images/award.gif">), EQUAFL (ISSTA 22), FirmGuide (ASE 21), ECMO (CCS 21)
+- **Model-Based Vulnerability Detection**: Rengar (Oakland 23), Endwatch (ASE 23<img src="https://cenzhang.github.io/images/award.gif">)
+- **General Fuzzing Improvements**: Medusa (WWW 24), BiFF (ASE 21<img src="https://cenzhang.github.io/images/award.gif">), MUZZ (USENIX Sec 20), Cerebro (FSE 19)
 
 My works have received several awards from both academia and industry, such as the ACM SIGSOFT Distinguished Paper Awards of ASE 2023 and ICSE 2024, 2021 Most Influential Research Paper of Ant Finance, and 1st Award of Prototype Competition, Free Style Track, NASAC (ChinaSoft) 2019.
 I'm also working as Project Co-Investigator for some research projects and mentoring several Ph.D students.
