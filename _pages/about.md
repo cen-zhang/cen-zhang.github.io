@@ -15,7 +15,7 @@ Before that, I was a Ph.D student at SCSE@NTU (School of Computer Science and En
 
 My research expertise mainly center around building tools factilitating vulnerability detection:
 
-- **Fuzz Driver Generation**: Rubick (USENIX Sec 23), APICraft (USENIX Sec 21<img src="https://cenzhang.github.io/images/award.gif" style="width: 70vw;">)
+- **Fuzz Driver Generation**: Rubick (USENIX Sec 23), APICraft (USENIX Sec 21<img src="https://cenzhang.github.io/images/award.png">)
 - **Firmware Analysis**: BVFinder (ICSE 24<img src="https://cenzhang.github.io/images/award.gif">), EQUAFL (ISSTA 22), FirmGuide (ASE 21), ECMO (CCS 21)
 - **Model-Based Vulnerability Detection**: Rengar (Oakland 23), Endwatch (ASE 23<img src="https://cenzhang.github.io/images/award.gif">)
 - **General Fuzzing Improvements**: Medusa (WWW 24), BiFF (ASE 21<img src="https://cenzhang.github.io/images/award.gif">), MUZZ (USENIX Sec 20), Cerebro (FSE 19)
