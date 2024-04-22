@@ -53,7 +53,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <p>
 <a class="media" href="https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-cen" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Cen Zhang</font>, Xingwei Lin, Yuekang Li, Yinxing Xue, Jundong Xie, Hongxu Chen, Xinlei Ying, Jiashui Wang, and Yang Liu. APICraft: Fuzz Driver Generation for Closed-source SDK Libraries, USENIX Security 2021.
-<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;">font color="red">Most Influential Research Paper of Year 2021 in Ant Finance</font>
+<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;"><font color="red">Most Influential Research Paper of Year 2021 in Ant Finance</font>
 </p>
 
 <p>
