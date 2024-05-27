@@ -15,6 +15,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ---
 
 <p>
+<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Bohan Liu, Zong Cao, Zheng Wang, Yeqi Fu, <font color="blue">Cen Zhang</font>, Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution, Blackhat 2024.
+</p>
+
+<p>
 <a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Maoyi Xie, Ming Hu, Ziqiao Kong, <font color="blue">Cen Zhang</font>, Yebo Feng, Haijun Wang, Yue Xue, Hao Zhang, Ye Liu, Yang Liu. DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications, ISSTA 2024.
 </p>
 
