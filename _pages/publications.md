@@ -15,7 +15,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ---
 
 <p>
-<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Bohan Liu, Zong Cao, Zheng Wang, Yeqi Fu, <font color="blue">Cen Zhang</font>, Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution, Blackhat 2024.
+<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Bohan Liu, Zong Cao, Zheng Wang, Yeqi Fu, <font color="blue">Cen Zhang</font>, Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution, Black Hat USA 2024.
 </p>
 
 <p>
