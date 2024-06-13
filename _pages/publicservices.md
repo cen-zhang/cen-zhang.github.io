@@ -12,8 +12,10 @@ redirect_from:
 
 ## Program Committee Services
 
+- NDSS 2025 Artifical Evaluation Committee
 - ASE 2022 Artifical Evaluation Track
 
 ## Reviewing Services
 
+- ACM Transactions on Software Engineering and Methodology (TOSEM)
 - IEEE Transactions on Information Forensics and Security (TIFS)
