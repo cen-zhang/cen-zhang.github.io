@@ -15,7 +15,7 @@ Before that, I was a Ph.D student at SCSE@NTU (School of Computer Science and En
 
 My research expertise mainly center around building tools factilitating vulnerability detection:
 
-- **Fuzz Driver Generation**: Rubick (USENIX Sec 23), APICraft (<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;">USENIX Sec 21)
+- **Fuzz Driver Generation**: LLM4FDG (ISSTA 24), Rubick (<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;">USENIX Sec 23), APICraft (<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;">USENIX Sec 21)
 - **Firmware Analysis**: BVFinder (<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;">ICSE 24), EQUAFL (ISSTA 22), FirmGuide (ASE 21), ECMO (CCS 21)
 - **Model-Based Vulnerability Detection**: Rengar (Oakland 23), Endwatch (<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;">ASE 23)
 - **General Fuzzing Improvements**: Medusa (WWW 24), BiFF (<img src="https://cenzhang.github.io/images/award.gif" style="width: 13px;">ASE 21), MUZZ (USENIX Sec 20), Cerebro (FSE 19)
@@ -30,6 +30,8 @@ In the future, I plan to explore more possibilities on **vulnerability detection
 ---
 
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; <font color="red">I'm in the job market!</font>
+- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Jul 2024: Our work "How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation" is accepted by ISSTA 2024.
+- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Jul 2024: Our work "Bugs in Pods: Understanding Bugs in Container Runtime Systems" is accepted by ISSTA 2024.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; May 2024: Our work "Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution" is accepted by Black Hat USA 2024.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Mar 2024: Our paper "DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications" is accepted by ISSTA 2024.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Jan 2024: Our paper "Medusa: Unveil Memory Exhaustion DoS Vulnerabilities in Protocol Implementations" is accepted by WWW 2024.

@@ -8,6 +8,7 @@ redirect_from:
   - /awards.html
 ---
 
+- **Best Paper Award for Thrust B Projects**, Continental-NTU Corporate Lab 2024
 - **ACM SIGSOFT Distinguished Paper Award**, ICSE 2024
 - **ACM SIGSOFT Distinguished Paper Award**, ASE 2023
 - **Best Paper Award of Year 2021**, Most Influential Research Paper Election of Ant Finance

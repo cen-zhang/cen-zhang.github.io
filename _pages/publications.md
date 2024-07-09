@@ -15,7 +15,15 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ---
 
 <p>
-<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Bohan Liu, Zong Cao, Zheng Wang, Yeqi Fu, <font color="blue">Cen Zhang</font>, Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution, Black Hat USA 2024.
+<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Cen Zhang</font>, Yaowen Zheng, Mingqiang Bai, Yeting Li, Wei Ma, Xiaofei Xie, Yuekang Li, Limin Sun, Yang Liu. How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation, ISSTA 2024.
+</p>
+
+<p>
+<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Jiongchi Yu, Xiaofei Xie, <font color="blue">Cen Zhang</font>, Sen Chen, Yuekang Li, Wenbo Shen. Bugs in Pods: Understanding Bugs in Container Runtime Systems, ISSTA 2024.
+</p>
+
+<p>
+<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Bohan Liu, Zong Cao, Zheng Wang, Yeqi Fu, <font color="blue">Cen Zhang</font>. Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution, Black Hat USA 2024.
 </p>
 
 <p>
