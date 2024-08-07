@@ -29,6 +29,7 @@ In the future, I plan to explore more possibilities on **vulnerability detection
 
 ---
 
+- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Aug 2024: Our work "Semantic-Enhanced Indirect Call Analysis with Large Language Models" is accepted by ASE 2024.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Jul 2024: Our work "How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation" is accepted by ISSTA 2024.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Jul 2024: Our work "Bugs in Pods: Understanding Bugs in Container Runtime Systems" is accepted by ISSTA 2024.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; May 2024: Our work "Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution" is accepted by Black Hat USA 2024.
