@@ -15,7 +15,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ---
 
 <p>
-<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Baijun Cheng,  <font color="blue">Cen Zhang</font>, Kailong Wang, Ling Shi, Yang Liu, Haoyu Wang, Yao Guo,  Xiangqun Chen. Semantic-Enhanced Indirect Call Analysis with Large Language Models, ISSTA 2024.
+<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Baijun Cheng,  <font color="blue">Cen Zhang</font>, Kailong Wang, Ling Shi, Yang Liu, Haoyu Wang, Yao Guo,  Xiangqun Chen. Semantic-Enhanced Indirect Call Analysis with Large Language Models, ASE 2024.
 </p>
 
 <p>
