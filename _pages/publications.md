@@ -15,11 +15,15 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ---
 
 <p>
+<a class="media" href="https://dl.acm.org/doi/10.1145/3696788" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Xiaohan Zhang*, <font color="blue">Cen Zhang*</font>, Xinghua Li, Zhengjie Du, Bing Mao, Yuekang Li, Yaowen Zheng, Yeting Li, Li Pan, Yang Liu, Robert Deng. A Survey of Protocol Fuzzing, ACM Computing Surveys.
+</p>
+
+<p>
 <a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Baijun Cheng,  <font color="blue">Cen Zhang</font>, Kailong Wang, Ling Shi, Yang Liu, Haoyu Wang, Yao Guo,  Xiangqun Chen. Semantic-Enhanced Indirect Call Analysis with Large Language Models, ASE 2024.
 </p>
 
 <p>
-<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Cen Zhang</font>, Yaowen Zheng, Mingqiang Bai, Yeting Li, Wei Ma, Xiaofei Xie, Yuekang Li, Limin Sun, Yang Liu. How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation, ISSTA 2024.
+<a class="media" href="https://dl.acm.org/doi/10.1145/3650212.3680355" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Cen Zhang</font>, Yaowen Zheng, Mingqiang Bai, Yeting Li, Wei Ma, Xiaofei Xie, Yuekang Li, Limin Sun, Yang Liu. How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation, ISSTA 2024.
 </p>
 
 <p>

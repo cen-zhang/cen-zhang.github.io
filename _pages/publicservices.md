@@ -12,10 +12,11 @@ redirect_from:
 
 ## Program Committee Services
 
+- MSR 2025 Junior PC Member
 - NDSS 2025 Artifical Evaluation Committee
-- ASE 2022 Artifical Evaluation Track
+- ASE 2022 Artifical Evaluation Track Program Committee
 
-## Reviewing Services
+## Journal Reviewing Services
 
 - ACM Transactions on Software Engineering and Methodology (TOSEM)
 - IEEE Transactions on Information Forensics and Security (TIFS)
