@@ -15,6 +15,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ---
 
 <p>
+<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Jiageng Li, Zhen Dong, Chong Wang, Haozhen You, <font color="blue">Cen Zhang*</font>, Yang Liu, Xin Peng. LLM Based Input Space Partitioning Testing for Library APIs, ICSE 2025.
+</p>
+
+<p>
 <a class="media" href="https://dl.acm.org/doi/10.1145/3696788" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Xiaohan Zhang*, <font color="blue">Cen Zhang*</font>, Xinghua Li, Zhengjie Du, Bing Mao, Yuekang Li, Yaowen Zheng, Yeting Li, Li Pan, Yang Liu, Robert Deng. A Survey of Protocol Fuzzing, ACM Computing Surveys.
 </p>
 
