@@ -16,6 +16,7 @@ redirect_from:
 - EuroSys 2025, Shadow PC Member
 - MSR 2025, Junior PC Member
 - NDSS 2025, Artifical Evaluation Committee
+- USENIX SECURITY 2025, Artifical Evaluation Committee
 - ASE 2022, Artifical Evaluation Track Program Committee
 
 ## Journal Reviewing Services
