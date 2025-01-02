@@ -12,6 +12,7 @@ redirect_from:
 
 ## Program Committee Services
 
+- IJCAI 2025, Survey Track, PC Member
 - Oakland 2025, HMISA Workshop, PC Member
 - EuroSys 2025, Shadow PC Member
 - MSR 2025, Junior PC Member
