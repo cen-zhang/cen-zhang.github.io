@@ -12,13 +12,15 @@ redirect_from:
 
 ## Program Committee Services
 
+- ISSTA 2025, EXPRESS Track, PC Member
+- Internetware 2025, Tool Demonstration Track, PC Member
 - IJCAI 2025, Survey Track, PC Member
 - Oakland 2025, HMISA Workshop, PC Member
-- EuroSys 2025, Shadow PC Member
-- MSR 2025, Junior PC Member
+- EuroSys 2025, Research Track, Shadow PC Member
+- MSR 2025, Research Track, Junior PC Member
 - NDSS 2025, Artifical Evaluation Committee
 - USENIX SECURITY 2025, Artifical Evaluation Committee
-- ASE 2022, Artifical Evaluation Track Program Committee
+- ASE 2022, Artifical Evaluation Track, PC Member
 
 ## Journal Reviewing Services
 
